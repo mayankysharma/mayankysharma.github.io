@@ -90,35 +90,34 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-#   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#     icon_pack: fas
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/
-#   # Link to a PDF of your resume/CV.
-#   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-#   # and uncomment the lines below.
-#   - icon: cv
-#     icon_pack: ai
-#     link: uploads/resume.pdf
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
-# # Highlight the author in author lists? (true/false)
-# highlight_name: true
-# ---
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
 
-# Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-# {style="text-align: justify;"}
+I am a aspiring roboticist interested to work on hands-on with robots integrated with perception. I recently worked as a Research Assistant at Perception and Robotics Group for a object tracking problem for mobile robots. In addition, worked as a Research Intern at IIT Bombay, to develop novel docking mechanism to lock all six degrees of freedom of UAVs. I have had a good opportunity to work hands-on to building robots from scratch with tasks ranging from designing to developing firmware, during my undergrad to compete for robotics competitions like ABU robocon. My interests include Autonomous systems, Computer Vision, and path planning. I am looking for full-time robotics roles starting May 2024.   
