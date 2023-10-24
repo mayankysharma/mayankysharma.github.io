@@ -62,27 +62,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Perception and Robotics Group
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: umd-black
+          location: College Park, USA
+          date_start: '2022-08-01'
+          date_end: '2023-05-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Worked on an object tracking algorithm to create polygon based bounding boxes to get maximum region of attraction (ROA) for objects in a video sequence.
+              * Researched and implemented DeepFit technique for fitting surface on event point clouds.
+        - title: Research Intern
+          company: Lighter than Air Systems Lab, IIT Bombay
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: iitb
+          location: Mumbai, India
+          date_start: '2021-07-01'
+          date_end: '2022-08-01'
+          description: |2-
+              * Built battery swapping mechanisms and integrated them with the UAV docking mechanism resulting in 45% less time to charge than most techniques.
+              * Developed firmware for a robust arresting mechanism to lock the UAVs in all six degrees of freedom.
+              - title: Research Intern
+          company: NMIMS University
+          company_url: ''
+          company_logo: bottom_logo
+          location: Mumbai, India
+          date_start: '2021-05-01'
+          date_end: '2021-07-01'
+          description: |2-
+              * Researched nonlinear BLDC motor speed control methods and implemented a speed control algorithm based on sliding mode reaching law (SMRL) to control the speed of the BLDC in MATLAB Simulink.
+
     design:
       columns: '2'
   - block: accomplishments

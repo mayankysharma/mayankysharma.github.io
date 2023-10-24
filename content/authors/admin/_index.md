@@ -34,21 +34,18 @@ interests:
   - Path Planning
   - Control Systems
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
+Education to show in About widget
+education:
+  courses:
+    - course: Masters in Robotics
+      institution: University of Maryland
+      year: 2024
+    - course: B.Tech in Mechatronis
+      institution: NMIMS University
+      year: 2022
 
-# # Skills
-# # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 # skills:
 #   - name: Technical
 #     items:
