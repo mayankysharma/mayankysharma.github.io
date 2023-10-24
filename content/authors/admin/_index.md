@@ -34,7 +34,7 @@ interests:
   - Path Planning
   - Control Systems
 
-Education to show in About widget
+#Education to show in About widget
 education:
   courses:
     - course: Masters in Robotics
