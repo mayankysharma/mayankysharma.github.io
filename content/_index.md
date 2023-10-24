@@ -42,12 +42,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
     design:
       columns: '1'
   - block: experience
@@ -72,6 +72,7 @@ sections:
           description: |2-
               * Worked on an object tracking algorithm to create polygon based bounding boxes to get maximum region of attraction (ROA) for objects in a video sequence.
               * Researched and implemented DeepFit technique for fitting surface on event point clouds.
+
         - title: Research Intern
           company: Lighter than Air Systems Lab, IIT Bombay
           company_url: ''
@@ -82,7 +83,8 @@ sections:
           description: |2-
               * Built battery swapping mechanisms and integrated them with the UAV docking mechanism resulting in 45% less time to charge than most techniques.
               * Developed firmware for a robust arresting mechanism to lock the UAVs in all six degrees of freedom.
-              - title: Research Intern
+          
+        - title: Research Intern
           company: NMIMS University
           company_url: ''
           company_logo: bottom_logo
