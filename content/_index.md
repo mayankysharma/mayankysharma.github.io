@@ -49,7 +49,7 @@ sections:
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #     username: admin
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Experience
@@ -195,16 +195,16 @@ sections:
   #     subtitle: ''
   #     text: |-
   #       {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
     design:
       columns: '2'
       view: card
