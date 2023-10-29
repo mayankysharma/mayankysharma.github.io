@@ -205,9 +205,9 @@ sections:
   #       folders:
   #         - publication
   #       featured_only: true
-    design:
-      columns: '2'
-      view: card
+    # design:
+    #   columns: '2'
+    #   view: card
   - block: collection
     # id: featured
     content:
