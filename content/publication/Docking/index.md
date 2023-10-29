@@ -21,7 +21,7 @@ publishDate: "2023-07-20T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*AIAA AVIATION 2022 Forum*"
 publication_short: ""
 
 abstract: Vertical Take-off and Landing (VTOL) Unmanned Aerial Vehicles (UAVs) enjoy a great majority of the UAV market with a wide variety of applications due to their low cost and time to set up and operate. Some of these applications demand continuous drone operations with minimal to no human intervention for routine activities such as recharging and maintenance. Very recently, ground-based UAV docking stations doing recharging or battery swapping autonomously have been seen as a potential way to address the need. However, there are still some applications, such as operations from a boat or an aerial platform, where there is no conveniently available stationary or steady base on which the docking station can be installed. Developing a moving docking station offers a new set of challenges along UAV guidance/navigation for precision landing on moving target, and along docking mechanism to align and secure the UAV for subsequent operations on the dock without errors. This paper describes some of the existing docking solutions and highlights their features. . A novel docking solution is proposed specifically designed keeping the unsteady motion of the platform into consideration. The mechanism is versatile in terms of type of the VTOL UAVs it can serve and in terms of platforms it can be implemented on. Tests were carried out using an off-the-shelf UAV and the mechanism was observed to be working as expected.

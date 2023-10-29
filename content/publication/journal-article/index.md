@@ -21,7 +21,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*AIAA SCITECH 2023 Forum*"
 publication_short: ""
 
 abstract: In recent times, there has been a surge in the use of Unmanned Aerial Vehicles (UAVs) in the commercial and recreational space. Drones are highly sought after to act as replacements to traditional manned tasks ranging from surveillance to agriculture. An important factor that inhibits complete transition of drones into commercial ecosystem, is their limited battery life or endurance. Numerous attempts to enhance modern battery technology are under progress, however, a steady solution still seems far-fetched. To solve this problem with existing battery technology, rapid-action swapping of the drained battery pack can be projected as a viable option. The drained battery can be replaced with a newly charged battery and there can be a presence of a recharging station which would charge the spare batteries while the UAV is completing the mission. This paper is an ongoing study on various available battery swapping mechanisms, which are autonomous in nature to eliminate any human intervention.The final study will portray a comparative analysis of these battery swapping mechanisms and conclude with a few areas of development to make such a system available commercially.
