@@ -48,8 +48,8 @@ sections:
   #     text: ''
   #     # Choose a user to display skills from (a folder name within `content/authors/`)
   #     username: admin
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   - block: experience
     content:
       title: Experience
@@ -94,8 +94,8 @@ sections:
           description: |2-
               * Researched nonlinear BLDC motor speed control methods and implemented a speed control algorithm based on sliding mode reaching law (SMRL) to control the speed of the BLDC in MATLAB Simulink.
 
-    # design:
-    #   columns: '2'
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -209,7 +209,7 @@ sections:
     #   columns: '2'
     #   view: card
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications
       filters:
