@@ -209,7 +209,7 @@ sections:
     #   columns: '2'
     #   view: card
   - block: collection
-    # id: featured
+    id: featured
     content:
       title: Publications
       filters:
@@ -279,6 +279,6 @@ sections:
   #       netlify:
   #         # Enable CAPTCHA challenge to reduce spam?
   #         captcha: false
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
 ---
