@@ -40,7 +40,7 @@ education:
     - course: Masters in Robotics
       institution: University of Maryland
       year: 2024
-    - course: B.Tech in Mechatronis
+    - course: B.Tech in Mechatronics
       institution: NMIMS University
       year: 2022
 
@@ -117,5 +117,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a aspiring roboticist interested to work on hands-on with robots integrated with perception. I recently worked as a Research Assistant at Perception and Robotics Group for a object tracking problem for mobile robots. In addition, worked as a Research Intern at IIT Bombay, to develop novel docking mechanism to lock all six degrees of freedom of UAVs. I have had a good opportunity to work hands-on to building robots from scratch with tasks ranging from designing to developing firmware, during my undergrad to compete for robotics competitions like ABU robocon. My interests include Autonomous systems, Computer Vision, and path planning. I am looking for full-time robotics roles starting May 2024.   
+I am an aspiring roboticist interested in gaining hands-on experience with robots integrated with perception. I recently worked as a Research Assistant at the Perception and Robotics Group, addressing an object tracking problem for mobile robots. Additionally, I had the opportunity to work as a Research Intern at the Indian Institute of Technology (IIT) Bombay, where I contributed to the development of a novel docking mechanism to lock all six degrees of freedom of UAVs. My hands-on experience in building robots from scratch, involving tasks ranging from design to firmware development, was acquired during my undergraduate studies and through participation in robotics competitions like ABU Robocon. My interests encompass Autonomous Systems, Computer Vision, and Path Planning, and I am actively seeking full-time robotics roles starting in May 2024.  
