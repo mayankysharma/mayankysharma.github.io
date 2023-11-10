@@ -22,7 +22,7 @@ role: Robotics Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Maryland
-    url: https://www.stanford.edu/
+    url: https://www.umd.edu/
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
