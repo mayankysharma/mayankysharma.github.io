@@ -70,8 +70,8 @@ sections:
           date_start: '2022-08-01'
           date_end: '2023-05-01'
           description: |2-
-              * Worked on an object tracking algorithm to create polygon based bounding boxes to get maximum region of attraction (ROA) for objects in a video sequence.
-              * Researched and implemented DeepFit technique for fitting surface on event point clouds.
+              * Created an RCNN-based object detection system, incorporating selective search, region proposal techniques, and multi-class support and demonstrated image classification capability on the ImageNet dataset.
+              * Researched and implemented DeepFit technique for fitting surface on event point cloud dataset.
 
         - title: Research Intern
           company: Lighter than Air Systems Lab, IIT Bombay
@@ -92,8 +92,8 @@ sections:
           date_start: '2021-05-01'
           date_end: '2021-07-01'
           description: |2-
-              * Researched nonlinear BLDC motor speed control methods and implemented a speed control algorithm based on sliding mode reaching law (SMRL) to control the speed of the BLDC in MATLAB Simulink.
-
+              * Researched nonlinear BLDC motor speed control methods and implemented a speed control algorithm based on sliding mode reaching law (SMRL) on MATLAB Simulink.
+              
     design:
       columns: '2'
   # - block: accomplishments
