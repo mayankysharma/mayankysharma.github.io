@@ -62,6 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Robotics Engineer Intern
+          company: Kick Robotics
+          company_url: ''
+          company_logo: ''
+          location: College Park, USA
+          date_start: '2024-02-01'
+          date_end: 'Present'
+          description: |2-
+              * Working on ROS2 navigation stack for mobile robots.
+              * Conceptualized and prototyped advanced electrical circuits for autonomous vehicles, seamlessly integrating sensors, actuators, and control systems, resulting in a significant 15% enhancement in vehicle efficiency.
         - title: Research Assistant
           company: Perception and Robotics Group
           company_url: ''
