@@ -65,7 +65,7 @@ sections:
         - title: Robotics Engineer Intern
           company: Kick Robotics
           company_url: ''
-          company_logo: ''
+          company_logo: 
           location: College Park, USA
           date_start: '2024-02-01'
           date_end: 'Present'
