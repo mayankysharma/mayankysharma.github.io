@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Robotics Engineer Intern
+        - title: Robotics Engineer Intern
           company: Kick Robotics
           company_url: ''
           company_logo: ''
