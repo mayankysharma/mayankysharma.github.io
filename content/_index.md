@@ -67,7 +67,7 @@ sections:
           company_url: '' 
           location: College Park, USA
           date_start: '2024-02-01'
-          date_end: 'Present'
+          date_end: Present
           description: |2-
               * Working on ROS2 navigation stack for mobile robots.
               * Conceptualized and prototyped advanced electrical circuits for autonomous vehicles, seamlessly integrating sensors, actuators, and control systems, resulting in a significant 15% enhancement in vehicle efficiency.
