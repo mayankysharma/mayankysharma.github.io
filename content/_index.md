@@ -61,6 +61,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      
+      items:
       - title: Research Assistant
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
           company_url: ''
@@ -71,7 +73,6 @@ sections:
           description: |2-
               * Improving object mapping and reconstruction with a mobile robot using Next-Best-View (NBV) planning, utilizing deep learning and Gaussian splats to predict full models efficiently from partial views without assuming they are centered at the object’s center.
               
-      items:
         - title: Robotics Engineer Intern
           company: Kick Robotics
           company_url: '' 
