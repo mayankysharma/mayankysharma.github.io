@@ -64,7 +64,7 @@ sections:
       
       items:
 
-      - title: Research Assistant
+        - title: Research Assistant
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
           company_url: ''
           company_logo: umd-black
