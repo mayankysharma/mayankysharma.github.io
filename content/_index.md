@@ -64,7 +64,7 @@ sections:
       
       items:
 
-        - title: Research Assistant
+        - title: Graduate Student Researcher
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
           company_url: ''
           company_logo: umd-black
@@ -74,16 +74,16 @@ sections:
           description: |1-
               * Improving object mapping and reconstruction with a mobile robot using Next-Best-View (NBV) planning, utilizing deep learning and Gaussian splats to predict full models efficiently from partial views without assuming they are centered at the object’s center.
               
-        - title: Robotics Engineer Intern
+        - title: Computer Vision Engineer Intern
           company: Kick Robotics
           company_url: '' 
           location: College Park, USA
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Working on ROS2 navigation stack for mobile robots.
+              * Developing a autonomous mobile robot to explore and map a warehouse with ORB-SLAM2 pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson, and ROS2 to monitor carbon monoxide levels..
               * Conceptualized and prototyped advanced electrical circuits for autonomous vehicles, seamlessly integrating sensors, actuators, and control systems, resulting in a significant 15% enhancement in vehicle efficiency.
-        - title: Research Assistant
+        - title: Graduate Student Researcher
           company: Perception and Robotics Group
           company_url: ''
           company_logo: umd-black
@@ -94,7 +94,7 @@ sections:
               * Created an RCNN-based object detection system, incorporating selective search, region proposal techniques, and multi-class support and demonstrated image classification capability on the ImageNet dataset.
               * Researched and implemented DeepFit technique for fitting surface on event point cloud dataset.
 
-        - title: Research Intern
+        - title: Robotics Engineer Intern
           company: Lighter than Air Systems Lab, IIT Bombay
           company_url: ''
           company_logo: iitb
@@ -105,7 +105,7 @@ sections:
               * Built battery swapping mechanisms and integrated them with the UAV docking mechanism resulting in 45% less time to charge than most techniques.
               * Developed firmware for a robust arresting mechanism to lock the UAVs in all six degrees of freedom.
           
-        - title: Research Intern
+        - title: Control Systems Research Intern
           company: NMIMS University
           company_url: ''
           company_logo: bottom_logo
