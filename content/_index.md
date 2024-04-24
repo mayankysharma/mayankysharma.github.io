@@ -81,7 +81,7 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Developing a autonomous mobile robot to explore and map a warehouse with ORB-SLAM2 pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson, and ROS2 to monitor carbon monoxide levels..
+              * Developing a autonomous mobile robot to explore and map a warehouse with ORB-SLAM2 pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson, and ROS2 to monitor carbon monoxide levels.
               * Conceptualized and prototyped advanced electrical circuits for autonomous vehicles, seamlessly integrating sensors, actuators, and control systems, resulting in a significant 15% enhancement in vehicle efficiency.
         - title: Graduate Student Researcher
           company: Perception and Robotics Group
