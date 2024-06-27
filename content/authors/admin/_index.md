@@ -98,7 +98,7 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: fa-medium
+  - icon: medium
     icon_pack: fab
     link: https://medium.com/@sharmamayank990
 
