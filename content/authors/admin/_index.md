@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Robotics Graduate Student
+role: Computer Vision Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -98,6 +98,10 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
+  - icon: fa-medium
+    icon_pack: fab
+    link: https://medium.com/@sharmamayank990
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&authuser=2&user=2DsK3m0AAAAJ
