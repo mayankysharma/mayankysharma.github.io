@@ -98,9 +98,9 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: medium
-    icon_pack: fab
-    link: https://medium.com/@sharmamayank990
+  # - icon: medium
+  #   icon_pack: fab
+  #   link: https://medium.com/@sharmamayank990
 
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
@@ -121,4 +121,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 I am an aspiring roboticist interested in gaining hands-on experience with robots integrated with perception. I recently worked as a Research Assistant at the Perception and Robotics Group, addressing an object tracking problem for mobile robots. Additionally, I had the opportunity to work as a Research Intern at the Indian Institute of Technology (IIT) Bombay, where I contributed to the development of a novel docking mechanism to lock all six degrees of freedom of UAVs. My hands-on experience in building robots from scratch, involving tasks ranging from design to firmware development, was acquired during my undergraduate studies and through participation in robotics competitions like ABU Robocon. My interests encompass Autonomous Systems, Computer Vision, and Path Planning, and I am actively seeking full-time robotics roles starting in May 2024.  
