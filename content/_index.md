@@ -72,7 +72,7 @@ sections:
           date_start: '2024-03-21'
           date_end: ''
           description: |1-
-              * Improving object mapping and reconstruction with a mobile robot using Next-Best-View (NBV) planning, utilizing deep learning and Gaussian splats to predict full models efficiently from partial views without assuming they are centered at the object’s center.
+              * Optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views
               
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
@@ -81,8 +81,9 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Developing a autonomous mobile robot to explore and map a warehouse with RTABMAP pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson, and ROS2 to monitor carbon monoxide levels.
-              * Conceptualized and prototyped advanced electrical circuits for autonomous vehicles, seamlessly integrating sensors, actuators, and control systems, resulting in a significant 15% enhancement in vehicle efficiency.
+              * Developing a autonomous mobile robot to explore and map a warehouse with RTAB-Map pipeline using LiDAR, IMU, Depth Camera, UDOO Bolt, and ROS2 to monitor carbon monoxide levels.
+              * Developing a ReactJS web app for a ROS2 robot, enabling remote teleoperation, navigation map visualization, and real-time monitoring, improving operational efficiency and user experience
+              * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
         - title: Graduate Student Researcher
           company: Perception and Robotics Group
           company_url: ''
