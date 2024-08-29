@@ -72,7 +72,7 @@ sections:
           date_start: '2024-03-21'
           date_end: ''
           description: |1-
-              * Optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views
+              * Worked on optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views.
               
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
@@ -81,19 +81,9 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Developing a autonomous mobile robot to explore and map a warehouse with RTAB-Map pipeline using LiDAR, IMU, Depth Camera, UDOO Bolt, and ROS2 to monitor carbon monoxide levels.
-              * Developing a ReactJS web app for a ROS2 robot, enabling remote teleoperation, navigation map visualization, and real-time monitoring, improving operational efficiency and user experience
+              * Developing a autonomous mobile robot to explore and map a warehouse with RTAB-Map pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson Orin Nano, and ROS2 to monitor carbon monoxide levels.
+              * Created a ReactJS web app for a ROS2 robot, enabling remote teleoperation, navigation map visualization, and real-time monitoring,improving operational efficiency and user experience.
               * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
-        - title: Graduate Student Researcher
-          company: Perception and Robotics Group
-          company_url: ''
-          company_logo: umd-black
-          location: College Park, USA
-          date_start: '2022-08-01'
-          date_end: '2023-05-01'
-          description: |2-
-              * Created an RCNN-based object detection system, incorporating selective search, region proposal techniques, and multi-class support and demonstrated image classification capability on the ImageNet dataset.
-              * Researched and implemented DeepFit technique for fitting surface on event point cloud dataset.
 
         - title: Robotics Engineer Intern
           company: Lighter than Air Systems Lab, IIT Bombay
