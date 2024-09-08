@@ -70,7 +70,7 @@ sections:
           company_logo: umd-black
           location: College Park, USA
           date_start: '2024-03-21'
-          date_end: ''
+          date_end: '2024-08-15'
           description: |1-
               * Worked on optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views.
               
@@ -81,8 +81,10 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Developing a autonomous mobile robot to explore and map a warehouse with RTAB-Map pipeline using LiDAR, IMU, Depth Camera, Nvidia Jetson Orin Nano, and ROS2 to monitor carbon monoxide levels.
-              * Created a ReactJS web app for a ROS2 robot, enabling remote teleoperation, navigation map visualization, and real-time monitoring,improving operational efficiency and user experience.
+              * Developed an autonomous mobile robot for mapping, navigation, and carbon monoxide monitoring in a warehouse using ROS2.
+              * Created ROS2 wrappers for YOLOv8n human and forklift detection, optimized inference with TensorRT, achieving 3x faster
+                inference speed than the base model on Nvidia Jetson Orin Nano.
+              * Developed a ReactJS [web app](https://github.com/mayankysharma/ROS2-ReactJS-App) for remote teleoperation, map visualization, and real-time monitoring, boosting efficiency by 20%. Link
               * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
 
         - title: Robotics Engineer Intern
