@@ -63,17 +63,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       
       items:
-
-        - title: Graduate Student Researcher
-          company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
-          company_url: ''
-          company_logo: umd-black
-          location: College Park, USA
-          date_start: '2024-03-21'
-          date_end: '2024-08-15'
-          description: |1-
-              * Worked on optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views.
-              
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
           company_url: '' 
@@ -84,8 +73,20 @@ sections:
               * Developed an autonomous mobile robot for mapping, navigation, and carbon monoxide monitoring in a warehouse using ROS2.
               * Created ROS2 wrappers for YOLOv8n human and forklift detection, optimized inference with TensorRT, achieving 3x faster
                 inference speed than the base model on Nvidia Jetson Orin Nano.
-              * Developed a ReactJS [web app](https://github.com/mayankysharma/ROS2-ReactJS-App) for remote teleoperation, map visualization, and real-time monitoring, boosting efficiency by 20%. Link
+              * Developed a ReactJS [web app](https://github.com/mayankysharma/ROS2-ReactJS-App) for remote teleoperation, map visualization, and real-time monitoring, boosting efficiency by 20%.
               * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
+              
+        - title: Graduate Student Researcher
+          company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
+          company_url: ''
+          company_logo: umd-black
+          location: College Park, USA
+          date_start: '2024-03-21'
+          date_end: '2024-08-15'
+          description: |1-
+              * Worked on optimizing 3D reconstruction and object mapping with Next-Best-View (NBV) planning by estimating image-based uncertainty to maximize information gain, and using deep learning with Gaussian splats to predict full models from partial views.
+              
+        
 
         - title: Robotics Engineer Intern
           company: Lighter than Air Systems Lab, IIT Bombay
