@@ -69,12 +69,12 @@ sections:
           location: College Park, USA
           date_start: '2024-02-01'
           date_end: ''
-          description: |2-
-              * Developed an autonomous mobile robot for mapping, navigation, and carbon monoxide monitoring in a warehouse using ROS2.
-              * Created ROS2 wrappers for YOLOv8n human and forklift detection, optimized inference with TensorRT, achieving 3x faster
-                inference speed than the base model on Nvidia Jetson Orin Nano.
-              * Developed a ReactJS [web app](https://github.com/mayankysharma/ROS2-ReactJS-App) for remote teleoperation, map visualization, and real-time monitoring, boosting efficiency by 20%.
-              * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
+          description: |5-
+                * Working on integrating Nvidia Isaac Sim with ROS2 for performing Visual Slam (VSLAM) in a    warehouse simulation environment and to create large scale datasets.
+                * Created a ROS2 Nav2 custom costmap plugin for warehouse navigation utilizing real-time pixel-level image classification, optimized YOLOv8n with TensorRT, injecting corrections into local cost maps, resulting in robots successfully traversing areas previously avoided and enhancing overall navigation efficiency.
+                * Streamlined cross-functional CI/CD workflows by containerizing ROS2 packages using Docker and enhanced deployment efficiency and reliability by implementing unit and integration tests with the ROS2 Testing Framework (rostest, pytest) and troubleshooting issues
+                * Developed an autonomous mobile robot for mapping, navigation, and carbon monoxide monitoring in a warehouse using ROS2 Nav2
+                * Utilized EKF to fuse wheel odometry, and IMU data streams for non-linear state estimation.
               
         - title: Graduate Student Researcher
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
