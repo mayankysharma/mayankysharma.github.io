@@ -13,13 +13,4 @@ image:
   caption: Grasp
   focal_point: Smart
 
-links:
-  - icon: github
-    icon_pack: fab
-    name: 
-    url: 
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 ---
