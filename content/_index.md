@@ -223,6 +223,16 @@ sections:
     # design:
     #   columns: '2'
     #   view: card
+  - block: portfolio
+    id: competitions
+    content:
+      title: Competitions
+      filters:
+        folders:
+          - competitions
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      
   - block: collection
     id: publications
     content:
@@ -234,6 +244,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   # - block: collection
   #   id: talks
   #   content:
