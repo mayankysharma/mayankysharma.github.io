@@ -66,6 +66,7 @@ sections:
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
           company_url: '' 
+          company_logo: kick
           location: College Park, USA
           date_start: '2024-02-01'
           date_end: ''
@@ -232,7 +233,7 @@ sections:
           - competitions
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      
+
   - block: collection
     id: publications
     content:

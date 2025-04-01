@@ -3,7 +3,7 @@ title: ABU Robocon 2021
 
 
 
-summary: Co-lead the team of **70** people  overseeing departments such as Manufacturing, Designing, and Simulation to assemble and fabricate 2 robots from scratch to shoot arrows in a pot kept at some distance and achieved National Rank of **11** ([Results](static/uploads/2021_Robocon.png)).
+summary: Co-lead the team of **70** people  overseeing departments such as Manufacturing, Designing, and Simulation to assemble and fabricate 2 robots from scratch to shoot arrows in a pot kept at some distance and achieved National Rank of **11** ([Results](https://photos.app.goo.gl/Qa6QLAdkn3m9Ba6P8)).
 
 
 
