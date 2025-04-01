@@ -19,15 +19,18 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  
+  - name: Competitions
+    url:  '#competitions'
+    weight: 50
+
   - name: CV
     url: uploads/resume.pdf
     weight: 70
   - name: Medium
     url: https://medium.com/@sharmamayank990
     weight: 60
-  # - name: Competitions
-  #   url:  '#competitions'
-  #   weight: 70
+
   - name: Contact
     url: '#contact'
     weight: 60
