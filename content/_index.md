@@ -68,7 +68,7 @@ sections:
           company_url: 'https://www.ryght.ai/'
           company_logo: ry_logo
           location: Anaheim, CA, USA
-          date_start: '2025-05-1'
+          date_start: '2025-05-01'
           date_end: ''
           description: |1-
                 * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and
