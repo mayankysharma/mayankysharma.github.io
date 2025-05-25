@@ -65,14 +65,13 @@ sections:
       items:
         - title: AI Engineer
           company: Ryght Inc
-          company_url: 'https://www.ryght.ai/'
+          company_url: https://www.ryght.ai/
           company_logo: ry_logo
           location: Anaheim, CA, USA
           date_start: '2025-05-01'
           date_end: ''
           description: |1-
-                * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and
-                biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
+                * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
 
         - title: AI Intern
           company: Ryght Inc
@@ -82,8 +81,7 @@ sections:
           date_start: '2024-09-15'
           date_end: '2025-04-30'
           description: |1-
-                * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot
-                  examples, and temperature control, reducing hallucinations by 14% .
+                * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot examples, and temperature control, reducing hallucinations by 14% .
 
 
         - title: Computer Vision Engineer Intern
