@@ -70,8 +70,9 @@ sections:
           location: Anaheim, CA, USA
           date_start: '2025-05-01'
           date_end: ''
-          description: |2-
+          description: |5-
                 * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
+
 
         - title: AI Intern
           company: Ryght Inc
