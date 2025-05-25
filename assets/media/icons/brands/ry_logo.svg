@@ -1,0 +1,17 @@
+<svg id="ry_logo-general-pages" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214.807" height="51" viewBox="0 0 214.807 51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="214.807" height="51" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Path_206" data-name="Path 206" d="M128.337,32.986V52.8H116.708V33.345L99.55,5.851h12.791Z" transform="translate(-63.183 -3.714)" fill="#ff0014"/>
+  <g id="Group_188" data-name="Group 188">
+    <g id="Group_187" data-name="Group 187" clip-path="url(#clip-path)">
+      <path id="Path_207" data-name="Path 207" d="M4.049,5.851H23.072c12.419,0,17.947,6.748,17.947,16.08,0,6.6-2.8,11.988-8.83,14.5L42.742,52.8H28.959L20.632,38.083H15.678V52.8H4.049ZM23.216,27.315c4.666,0,6.03-2.3,6.03-5.384s-1.364-5.312-6.03-5.312H15.678v10.7Z" transform="translate(-2.57 -3.714)"/>
+      <path id="Path_208" data-name="Path 208" d="M189.714,27.7c0-14.07,10.337-24.407,24.982-24.407,11.7,0,20.746,6.6,23.833,16.511H225.751c-2.225-3.59-6.1-5.743-11.055-5.743-7.968,0-13.209,5.743-13.209,13.64s5.24,13.64,13.209,13.64c5.886,0,10.05-2.369,12.2-6.963H211.824V25.047h27.781v5.1c-1.149,12.777-11.127,21.966-24.91,21.966-14.645,0-24.982-10.337-24.982-24.407" transform="translate(-120.408 -2.092)"/>
+      <path id="Path_209" data-name="Path 209" d="M337.094,5.851h11.629V23.581h17.588V5.851H377.94V52.8H366.311V34.35H348.723V52.8H337.094Z" transform="translate(-213.947 -3.713)"/>
+      <path id="Path_210" data-name="Path 210" d="M472.3,16.618H459.517V5.85h37.257V16.618h-12.85V52.8H472.3Z" transform="translate(-291.647 -3.713)"/>
+      <path id="Path_211" data-name="Path 211" d="M547.555,106.081a6.892,6.892,0,1,1,6.891,6.891,6.717,6.717,0,0,1-6.891-6.891" transform="translate(-347.523 -62.953)"/>
+    </g>
+  </g>
+</svg>

@@ -63,13 +63,36 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       
       items:
+        - title: AI Engineer
+          company: Ryght Inc
+          company_url: 'https://www.ryght.ai/'
+          company_logo: ry_logo
+          location: Anaheim, CA, USA
+          date_start: '2025-05-1'
+          date_end: ''
+          description: |1-
+                * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and
+                biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
+
+        - title: AI Intern
+          company: Ryght Inc
+          company_url: 'https://www.ryght.ai/'
+          company_logo: ry_logo
+          location: Anaheim, CA, USA
+          date_start: '2024-09-15'
+          date_end: '2025-04-30'
+          description: |1-
+                * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot
+                  examples, and temperature control, reducing hallucinations by 14% .
+
+
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
           company_url: '' 
           company_logo: kick
-          location: College Park, USA
-          date_start: '2024-02-01'
-          date_end: ''
+          location: College Park, MD, USA
+          date_start: '2024-06-15'
+          date_end: '2025-05-15'
           description: |5-
                 * Working on integrating Nvidia Isaac Sim with ROS2 for performing Visual Slam (VSLAM) in a warehouse simulation environment and to create large scale datasets.
                 * Created a ROS2 Nav2 custom costmap plugin for warehouse navigation utilizing real-time pixel-level image classification, optimized YOLOv8n with TensorRT, injecting corrections into local cost maps, resulting in robots successfully traversing areas previously avoided and enhancing overall navigation efficiency.
@@ -81,7 +104,7 @@ sections:
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
           company_url: ''
           company_logo: umd-black
-          location: College Park, USA
+          location: College Park, MD, USA
           date_start: '2024-03-21'
           date_end: '2024-08-15'
           description: |1-
