@@ -70,18 +70,18 @@ sections:
           location: Anaheim, CA, USA
           date_start: '2025-05-01'
           date_end: ''
-          description: |1-
+          description: |2-
                 * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
 
         - title: AI Intern
           company: Ryght Inc
-          company_url: 'https://www.ryght.ai/'
+          company_url: https://www.ryght.ai/
           company_logo: ry_logo
           location: Anaheim, CA, USA
           date_start: '2024-09-15'
           date_end: '2025-04-30'
-          description: |1-
-                * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot examples, and temperature control, reducing hallucinations by 14% .
+          description: |2-
+                 * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot examples, and temperature control, reducing hallucinations by 14% .
 
 
         - title: Computer Vision Engineer Intern
@@ -100,7 +100,7 @@ sections:
               
         - title: Graduate Student Researcher
           company: Robotics Algorithms & Autonomous Systems(RAAS) Lab
-          company_url: ''
+          company_url: 'https://raaslab.org/'
           company_logo: umd-black
           location: College Park, MD, USA
           date_start: '2024-03-21'
@@ -112,7 +112,7 @@ sections:
 
         - title: Robotics Engineer Intern
           company: Lighter than Air Systems Lab, IIT Bombay
-          company_url: ''
+          company_url: https://www.aero.iitb.ac.in/ltasyslab/
           company_logo: iitb
           location: Mumbai, India
           date_start: '2021-07-01'
