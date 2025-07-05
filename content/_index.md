@@ -63,16 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       
       items:
-        - title: AI Engineer
-          company: Ryght Inc
-          company_url: https://www.ryght.ai/
-          company_logo: ry_logo
-          location: Anaheim, CA, USA
-          date_start: '2025-05-01'
-          date_end: ''
-          description: |5-
-                * Currently investigating semantic vector search techniques to identify similar clinical trials by embedding protocol documents and biomarker-level metadata, aiming to enable intelligent matching of studies competing for overlapping patient populations.
-
+        
 
         - title: AI Intern
           company: Ryght Inc
@@ -80,9 +71,11 @@ sections:
           company_logo: ry_logo
           location: Anaheim, CA, USA
           date_start: '2024-09-15'
-          date_end: '2025-04-30'
-          description: |5-
-                * Built a side-by-side LLM comparison chat in React and TypeScript and optimized prompt templates using role prompting, few-shot examples, and temperature control, reducing hallucinations by 14% .
+          date_end: ''
+          description: |2-
+                * Leveraged agile methodologies to iteratively develop and refine a side-by-side LLM comparison chat in React and TypeScript. This
+                system allows for side-by-side evaluation of various LLM models, each with independent configuration settings, and supports user-customizable prompt templates for direct response comparison.
+                * Revamped the chatbot’s interface by updating its entire UI and migrating from legacy components to a new architecture built with React, TypeScript, Next.js 13, and Tailwind CSS. This shift resulted in a more streamlined and visually cohesive application..
                 
         - title: Computer Vision Engineer Intern
           company: Kick Robotics
