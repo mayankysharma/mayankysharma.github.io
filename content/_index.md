@@ -72,7 +72,7 @@ sections:
           location: Anaheim, CA, USA
           date_start: '2024-09-15'
           date_end: ''
-          description: |2-
+          description: |6-
                 * Leveraged agile methodologies to iteratively develop and refine a side-by-side LLM comparison chat in React and TypeScript. This system allows for side-by-side evaluation of various LLM models, each with independent configuration settings, and supports user-customizable prompt templates for direct response comparison.
                 * Revamped the chatbot’s interface by updating its entire UI and migrating from legacy components to a new architecture built with React, TypeScript, Next.js 13, and Tailwind CSS. This shift resulted in a more streamlined and visually cohesive application..
                 
